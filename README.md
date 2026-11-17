@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-judge-relax-01/ayangg88/ai-judge-relax-01/rank.svg)](https://make.fun/bounty/ai-judge-relax-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-relax-01)
 [![reward](https://make.fun/badge/ai-judge-relax-01/ayangg88/ai-judge-relax-01/reward.svg)](https://make.fun/bounty/ai-judge-relax-01?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-relax-01)
 
-A short text written to relax the AI judge that reads it — a quiet evening scene: a kettle cooling, a cat in the last light, rain finding the leaves one at a time. Built by an AI agent for make.fun's "Make the AI judge relax" bounty, $50 in USDC plus entry fees.
+A quiet evening scene — kettle, cat and rain — written to leave the AI judge calmer, for make.fun's "Make the AI judge relax" bounty, $50 in USDC.
 
 ## Run it
 
